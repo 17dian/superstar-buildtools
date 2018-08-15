@@ -1,0 +1,15 @@
+.flex-v-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.min100vh {
+  min-height: 100vh;
+}
+
+.size-3x3 {
+  height: 3rem;
+  width: 3rem;
+}
