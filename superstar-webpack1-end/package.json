@@ -1,0 +1,21 @@
+{
+  "name": "superstar-webpack1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build": "webpack -p"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "snapsvg-cjs": "0.0.6",
+    "style-loader": "^0.22.1",
+    "url-loader": "^1.1.0",
+    "webpack": "^1.15.0"
+  },
+  "dependencies": {}
+}
